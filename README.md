@@ -1,2 +1,2 @@
 # wxx
-LANL Earthquake Prediction
+Kaggle :LANL Earthquake Prediction
